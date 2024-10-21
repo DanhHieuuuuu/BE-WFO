@@ -1,0 +1,6 @@
+@BE_WFO_HostAddress = http://localhost:5199
+
+GET {{BE_WFO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
